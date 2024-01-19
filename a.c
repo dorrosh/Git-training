@@ -2,6 +2,6 @@
 
 int main()
 {
-	int dor = 0;
+	int dor = 24;
 	return 0;
 }
